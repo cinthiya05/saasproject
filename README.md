@@ -1,7 +1,7 @@
-1. Create a GitHub repository
+✅1. Create a GitHub repository
 Go to github.com → Click New Repository → Fill in the details → Click Create repository.
 
-2. Initialize Git in your project (if not already)
+✅2. Initialize Git in your project (if not already)
 Open terminal in your project folder and run:
 git init
 
