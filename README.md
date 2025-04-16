@@ -37,3 +37,7 @@ git push --set-upstream origin feature1
 git checkout main
 
 git merge feature1
+
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
+
+.\venv\Scripts\Activate
