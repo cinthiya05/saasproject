@@ -23,3 +23,17 @@ git push -u origin main
 If your default branch is master, use:
 
 git push -u origin master
+
+git checkout feature1
+
+git branch feature1
+
+git branch
+
+git add .\test.py
+
+git push --set-upstream origin feature1
+
+git checkout main
+
+git merge feature1
